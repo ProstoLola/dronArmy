@@ -93,7 +93,7 @@
           </main>
           <footer>
             <p>Створено як навчальний проєкт курсу "Знайомство з ІТ: тестдрайв професій" від Prometheus.</p>
-            <p>Serhii Babii</p>
+            <p>LolitaHidora</p>
           </footer>
     </div>
 </body>
